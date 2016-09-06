@@ -1,6 +1,7 @@
 # Resources
 
 ## Code etc.
+* [CLIR Programming Guides](https://github.com/clirdlf/programming_guides)
 * [Command Line Browser Quiz](https://bmw9t.github.io/command_line_browser_quiz/)
 * [GitHub](https://github.com/)
 * [Humanities Programming](http://humanitiesprogramming.github.io/)
