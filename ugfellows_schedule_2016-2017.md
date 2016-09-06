@@ -1,7 +1,7 @@
 # Mellon DH Undergraduate Fellowship
 # Calendar 2016-2017
 
-Weekly meetings: Tuesdays at 11am in Leyburn 218.
+Weekly meetings: Tuesdays at 11am in Leyburn 218 (fall term).
 
 
 ## September
@@ -20,6 +20,17 @@ DH Fellows take over [WLU Library instagram](https://www.instagram.com/wlulibrar
 
 # December
 
+# January
+* Undergraduate Network for Research in the Humanities conference, hosted at W&L
+
+# February
+* 2/3/17 > deadline for SSA 
+
+# March
+* Friday, 3/17/17 > SSA 
+
+# Unscheduled
+* Workshop with Buena Vista High School students 
 
 
 ## People's schedules
