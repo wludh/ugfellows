@@ -15,21 +15,21 @@ DH Fellows take over [WLU Library instagram](https://www.instagram.com/wlulibrar
 * Monday, 10/17/16, 12:15pm > DH Speaker Series: Suzanne Churchill 
 * Friday-Sunday, 10/28-30/16 > Bucknell Digital Scholarship Conference
 
-# November
+## November
 * Monday-Wednesday, 10/7-9/16 > MKB + BW away at Digital Library Federation Forum
 
-# December
+## December
 
-# January
+## January
 * Undergraduate Network for Research in the Humanities conference, hosted at W&L
 
-# February
+## February
 * 2/3/17 > deadline for SSA 
 
-# March
+## March
 * Friday, 3/17/17 > SSA 
 
-# Unscheduled
+## Unscheduled
 * Workshop with Buena Vista High School students 
 
 
