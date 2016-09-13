@@ -13,10 +13,10 @@ DH Fellows take over [WLU Library instagram](https://www.instagram.com/wlulibrar
 ## October
 * Monday or Wednesday, 10/3 or 10/5, 2:30-4:30 > Visit HIST 211 to talk about TEI
 * Monday, 10/17/16, 12:15pm > DH Speaker Series: Suzanne Churchill 
-* Friday-Sunday, 10/28-30/16 > Bucknell Digital Scholarship Conference
+* Friday-Sunday, 10/28-30 > Bucknell Digital Scholarship Conference
 
 ## November
-* Monday-Wednesday, 10/7-9/16 > MKB + BW away at Digital Library Federation Forum
+* Monday-Wednesday, 10/7-9 > MKB + BW away at Digital Library Federation Forum
 
 ## December
 
