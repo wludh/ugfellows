@@ -43,6 +43,10 @@ TR: Class from 3:35 to 4:30
 MWF: 10:10 - 11:05 AM, 2:30 - 3:55 PM
 TTh: 8:35 - 10:00 AM
 
+### Hayley
+MWF: 11:15-12:10; 12:20-1:15; PE 1:25-2:20 (does not meet on Friday's)
+TR: 10:10-11:35; 1:25-2:50 
+
 ### Mackenzie
 TR: 2:30-4:30pm
 
