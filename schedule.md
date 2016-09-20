@@ -20,7 +20,7 @@
 * Homework: 
     * [First Three Exercises from Learn Git Branching](http://learngitbranching.js.org/)
     * [Git Exercises](https://github.com/wludh/ugfellows/blob/master/lessons/github.md)
-    * Blog Posts
+    * Introductory Blog Posts
     * Review HTML/CSS.
     * Bring in super basic webpage - index.html at least.
 
