@@ -54,7 +54,9 @@
 
 1. Make a GitHub account
 2. Clone our Fellows repository. 
-3. Sign your name at the bottom of this file to prove you did it.
+3. Sign your name at the bottom of this file.
+4. Sync the GitHub remote with your local version.
+5. Refresh this page to see your changes.
 
 ---
 Signatures
