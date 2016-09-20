@@ -53,7 +53,8 @@
 ## GitHub Exercises
 
 1. Make a GitHub account
-2. Clone our Fellows repository. Sign your name at the bottom of this file to prove you did it.
+2. Clone our Fellows repository. 
+3. Sign your name at the bottom of this file to prove you did it.
 
 ---
 Signatures
