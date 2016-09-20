@@ -16,9 +16,14 @@
 * Review HTML + CSS
 * Domain names?!
 * Review command line
-* [GitHub](https://github.com) in lab
-* Homeork: [GitHub exercise](https://github.com/wludh/ugfellows/blob/master/exercises/github.md)
+* [Git in lab](https://github.com/wludh/ugfellows/blob/master/lessons/github.md)
+* Homework: 
+    * [First Three Exercises from Learn Git Branching](http://learngitbranching.js.org/)
+    * [Git Exercises](https://github.com/wludh/ugfellows/blob/master/lessons/github.md)
+    * Blog Posts
 
 ## 9/27/16
-* Continue working on GitHub
-* Bios and intro blog posts
+* Review Git
+* Introduce [GitHub](https://github.com)
+* Homework:
+    * [GitHub exercises](https://github.com/wludh/ugfellows/blob/master/exercises/github.md)
