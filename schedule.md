@@ -27,5 +27,6 @@
 ## 9/27/16
 * Review Git
 * Introduce [GitHub](https://github.com)
+* Visit from Paul Youngman at 11:45
 * Homework:
     * [GitHub exercises](https://github.com/wludh/ugfellows/blob/master/exercises/github.md)
