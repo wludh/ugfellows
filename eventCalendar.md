@@ -12,6 +12,7 @@ DH Fellows take over [WLU Library instagram](https://www.instagram.com/wlulibrar
 
 ## October
 * Monday or Wednesday, 10/3 or 10/5, 2:30-4:30 > Visit HIST 211 to talk about TEI
+* Thursday, 10/13/16 > UVa event in CGL
 * Monday, 10/17/16, 12:15pm > DH Speaker Series: Suzanne Churchill 
 * Friday-Sunday, 10/28-30 > Bucknell Digital Scholarship Conference
 
