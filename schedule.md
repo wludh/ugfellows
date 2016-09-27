@@ -25,7 +25,7 @@
     * Bring in super basic webpage - index.html at least.
 
 ## 9/27/16
-* Review Git
+* Review Git and GitHub
 * Introduce [GitHub](https://github.com)
 * Visit from Paul Youngman at 11:45
 * Homework:
