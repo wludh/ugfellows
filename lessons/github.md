@@ -7,7 +7,7 @@
 ## Git Cheatsheet
 * $ git init
     * Turns a plain old folder into a git repository that is versioned and ready to track its history (involves making a lot of hidden files and interacting with them).
-* $ git status 
+* $ git status
     * Tells you the current state of your directory
 * $ git add .
     * Adds everything in your current directory to the staging site.
@@ -53,7 +53,7 @@
 ## GitHub Exercises
 
 1. Make a GitHub account
-2. Clone our Fellows repository. 
+2. Clone our Fellows repository.
 3. Sign your name at the bottom of this file.
 4. Sync the GitHub remote with your local version.
 5. Refresh this page to see your changes.
@@ -61,6 +61,8 @@
 ---
 Signatures
 ~~~~~~~~
-@abdurkhanye was here 
+@abdurkhanye was here
 
 `
+++++++++
+Aidan Valente
