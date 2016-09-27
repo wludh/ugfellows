@@ -22,7 +22,6 @@
     * [Git Exercises](https://github.com/wludh/ugfellows/blob/master/lessons/github.md)
     * Introductory Blog Posts - 300-500 words can be taken from your statement of interest.
     * Review HTML/CSS.
-    * Bring in super basic webpage - index.html at least.
 
 ## 9/27/16
 * Review Git and GitHub
@@ -30,3 +29,6 @@
 * Visit from Paul Youngman at 11:45
 * Homework:
     * [GitHub exercises](https://github.com/wludh/ugfellows/blob/master/exercises/github.md)
+    * [Getting Started with Markdown](http://programminghistorian.org/lessons/getting-started-with-markdown)
+    * Convert a blog post to markdown
+    * Bring in super basic webpage - index.html at least.
