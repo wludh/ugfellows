@@ -32,3 +32,9 @@
     * [Getting Started with Markdown](http://programminghistorian.org/lessons/getting-started-with-markdown)
     * Convert a blog post to markdown
     * Bring in super basic webpage - index.html at least.
+
+## 10/4/16
+* Review Markdown
+* Github hosting
+* Homework: 
+    * Write second blog post
