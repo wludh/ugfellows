@@ -34,7 +34,7 @@
     * Bring in super basic webpage - index.html at least.
 
 ## 10/4/16
-* GitHub domains
-* Github pages
-* Homework:
-    * Upload the project materials you have so far to a new repository
+* Review Markdown
+* Github hosting
+* Homework: 
+    * Write second blog post
