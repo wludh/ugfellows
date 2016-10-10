@@ -2,6 +2,7 @@
 ---
 * Basics
 | Name | Aidan Valente |
+| ------ | ------ |
 | Year | Sophomore |
 | Hometown | Sanford, FL |
 | Major | MRST & ARTH |
