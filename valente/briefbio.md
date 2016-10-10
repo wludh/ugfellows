@@ -1,6 +1,7 @@
 ## Short Bio
 ---
 * Basics
+
 | Name | Aidan Valente |
 | ------ | ------ |
 | Year | Sophomore |
