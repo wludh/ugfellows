@@ -37,4 +37,15 @@
 * Review Markdown
 * Github hosting
 * Homework: 
-    * Write second blog post
+    * Write second blog post. Save as markdown in GitHub, transform to HTML for posting in Wordpress. 
+
+## 10/11/16 
+* Work time
+* Project discussion 
+* Homework: 
+    * Experiment/survey different platforms (Jekyll, Grav, etc.)
+    * Brainstorm/list next steps for projects
+
+## 10/18/16
+* optional meeting
+* DH Workspace Open House 10/21/16
