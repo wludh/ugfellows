@@ -58,3 +58,20 @@
     * Set up your own Jekyll site for your project
     * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 0-10
     * Put the LRTHW exercises in a new folder inside your folder in the fellows github.
+
+## 11/1/16
+* Programming Concepts I
+* Review LRTHW
+* Homework:
+    * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 11-19
+    * 
+    * 
+## 11/15/16
+* Programming Concepts II
+* Homework:
+    * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 20-26
+
+## 11/29/16
+* Programming Concepts III
+* Homework:
+    * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 27-39
