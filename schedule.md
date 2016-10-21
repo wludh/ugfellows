@@ -66,6 +66,7 @@
     * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 11-19
     * 
     * 
+
 ## 11/15/16
 * Programming Concepts II
 * Homework:
@@ -75,3 +76,8 @@
 * Programming Concepts III
 * Homework:
     * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 27-39
+
+## 12/6/16
+* Homework:
+    * [Humanities Programming Ruby Exercises Part One](https://humanitiesprogramming.github.io/exercises/ruby-one/)
+    * Humanities Programming Ruby Exercises Part Two(https://humanitiesprogramming.github.io/exercises/ruby-two/) - all except the last one on classes
