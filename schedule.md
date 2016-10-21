@@ -49,3 +49,12 @@
 ## 10/18/16
 * optional meeting
 * DH Workspace Open House 10/21/16
+
+## 10/25/16
+* Jekyll Installation
+* Intro to Ruby
+* Intro to Ruby installation
+* Homework:
+    * Set up your own Jekyll site for your project
+    * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 0-10
+    * Put the LRTHW exercises in a new folder inside your folder in the fellows github.
