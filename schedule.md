@@ -64,8 +64,6 @@
 * Review LRTHW
 * Homework:
     * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 11-19
-    * 
-    * 
 
 ## 11/15/16
 * Programming Concepts II

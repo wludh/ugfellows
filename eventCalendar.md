@@ -19,7 +19,7 @@ DH Fellows take over [WLU Library instagram](https://www.instagram.com/wlulibrar
 
 ## November
 * Monday-Wednesday, 10/7-9 > MKB + BW away at Digital Library Federation Forum
-* Week of November 14th > talk at BV high school
+* Tuesday 11/15/16 > talk at BV high school, 11:30am-1:20pm
 
 ## December
 
