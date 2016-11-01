@@ -66,7 +66,7 @@
     * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 11-19
 
 ## 11/15/16
-* Programming Concepts II
+* Visit to BV High School Course
 * Homework:
     * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 20-26
 
