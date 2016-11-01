@@ -2,11 +2,15 @@
 ---
 * Basics
 
-| Name | Aidan Valente |
-| ------ | ------ |
-| Year | Sophomore |
-| Hometown | Sanford, FL |
-| Major | MRST & ARTH |
+__Name:__ Aidan Valente
 
-I have several project ideas for this year, and hopefully at least one of them will be finished by the time I graduate.
-I'm not that involved with much on campus, but I'm trying to change that this year.
+__Year:__ Sophomore (2019)
+
+__Majors:__ Medieval and Renaissance Studies, Art History
+
+__My Projects:__
++ MMMM: Multimedia Medieval Musical Manuscripts
++ The *Commissione* of Gerolimo Morosini
++ The World of Early Printing at W&L
+
+These projects all fall under my areas of interest/academic study, and they focus on making materials found in the University's Special Collections more accessible and understandable to W&L students.
