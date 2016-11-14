@@ -32,3 +32,8 @@ Mackenzie
 - DH context and projects
   - Huon d'Auvergne 
   - Ancient Graffiti 
+
+Hayley
+- Why I applied to DH program
+- How DH relates to my career aspirations
+- Current projects (updating the website, Future of the Library, Twitter and blog posts)
