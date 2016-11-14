@@ -25,3 +25,10 @@ Brandon
   - What is it?
   - Hands on activity marking passages for sentiment
   - Talk about converting texts to math.
+
+Mackenzie 
+- Document analysis activity
+- Librarian background/path
+- DH context and projects
+  - Huon d'Auvergne 
+  - Ancient Graffiti 
