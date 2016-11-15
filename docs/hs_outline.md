@@ -4,7 +4,7 @@ subject to change
   - Intro to Python
   - XML/TEI
 - Applications
-  - Where can you find uses for programming/coding in your life? 
+  - Where can you find uses for programming/coding in your life?
   - School, hobbies, entertainment, work, etc.  
   - Programming has real-world applications
 - Where to start
@@ -12,10 +12,10 @@ subject to change
   - Expand knowledge outside of class
   - How software relates to hardware
 - Beyond school
-  - What do I like to program? 
+  - What do I like to program?
   - What language do I like/am I best at?
   - How can I use that to my advantage?
- 
+
 Brandon
 - Introduction to Text Analysis
   - What is it?
@@ -26,14 +26,24 @@ Brandon
   - Hands on activity marking passages for sentiment
   - Talk about converting texts to math.
 
-Mackenzie 
+Mackenzie
 - Document analysis activity
 - Librarian background/path
 - DH context and projects
-  - Huon d'Auvergne 
-  - Ancient Graffiti 
+  - Huon d'Auvergne
+  - Ancient Graffiti
 
 Hayley
 - Why I applied to DH program
 - How DH relates to my career aspirations
 - Current projects (updating the website, Future of the Library, Twitter and blog posts)
+
+Aidan
+- Why Digital Humanities?
+  - So many different ways to utilize technology now
+  - "It makes the humanities come alive"
+- How I'm integrating DH and my humanities interests
+  - Manuscript project (display my transcription and workflow)
+  - Research opportunity with Professor Bent
+  - collaborative nature and using GitHub
+- Etc.
