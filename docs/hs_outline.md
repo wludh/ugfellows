@@ -1,3 +1,7 @@
+# Visit to Parry McClure High School
+
+On 11/15/2016 the W&L DH Fellows team visited an AP Computer Science class in Buena Vista, VA to talk about digital humanities. The goal was to illustrate for high school students that the programming skills they were learning had wide-ranging applications in the humanities. The team spoke about their own experiences learning programming and what brought them to digital humanities. The W&L speakers gave presentations about their own projects from both a conceptual and technical level. They covered a wide range of topics including digital archiving, sentiment analysis, and digital marketing. 
+
 ABDUR
 subject to change
 - My intro to coding
