@@ -55,3 +55,8 @@ TR: 2:30-4:30pm
 ### Brandon
 MW: 2:30-4:30pm
 Works remotely 2 days/week
+
+## ~~~WINTER TERM~~~
+### Abdur
+MW: 8:35 - 10
+TR: 10:10 - 1:15
