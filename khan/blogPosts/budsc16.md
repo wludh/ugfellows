@@ -14,5 +14,8 @@ The Bucknell University Digital Scholarship Conference, is held at Bucknell Univ
 
 Overall, BUDSC 16 was a worthwhile trip and a great opportunity for me. I thought my part of the presentation would be a bigger part of it for me, but the rest of what I learned and observed was much more valuable than a few minutes of speaking time. There are a couple more conferences this year that I might have the pleasure of attending, and presenting at, and I’m looking forward to them.
 
+![The Icebreakers]
+(icebreakers.jpg)
+
 _The Icebreakers - the 2016 version of the annual Bucknell band photo._
 
