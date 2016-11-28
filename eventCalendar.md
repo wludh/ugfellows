@@ -60,3 +60,7 @@ Works remotely 2 days/week
 ### Abdur
 MW: 8:35 - 10
 TR: 10:10 - 1:15
+
+### Hayley
+MWF: 10:10-11:05 & 1:15-3:55
+TR:10:10-11:35
