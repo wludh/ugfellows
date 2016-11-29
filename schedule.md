@@ -73,7 +73,7 @@
 ## 11/29/16
 * Programming Concepts III
 * Homework:
-    * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 27-39
+    * Work on Jekyll Site
     * "Command Line / GitHub According to You" blog post
 
 ## 12/6/16
