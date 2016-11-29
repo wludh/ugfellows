@@ -12,3 +12,8 @@ Depending on their skills and interests, students will be expected to perform so
 * Develop personal DH research projects or contribute to library DH projects. 
 * Collaborate/mentor with other fellows or student groups on specific projects. 
 
+In fall 2016, we have three fellows:
+
+* [Abdur Khan](/khan/) - working on a Jekyll plugin for converting TEI to markdown. Also learning Ruby and Ruby on Rails to work with the [Huon d'Auvergne](huondauvergene.org) project.
+* [Aidan Valente](/valente/) - working on a Jekyll plugin for converting TEI to markdown digital archiving.
+* [Haley Soutter](/soutter/) - working on strategic communciations in the University Library.
