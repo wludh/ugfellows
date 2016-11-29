@@ -74,7 +74,7 @@
 * Programming Concepts III
 * Homework:
     * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) exercises 27-39
-    * "Commandline / GitHub According to You" blog post
+    * "Command Line / GitHub According to You" blog post
 
 ## 12/6/16
 * Homework:
