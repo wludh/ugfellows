@@ -24,9 +24,9 @@ def add_header_to_file(filename)
     # adds the header that markdwon requires to a file you give it
     header = 
     """---
-layout: page
-title: My Blog Post
-author: Brandon
+layout: post
+title: \"My Blog Post\"
+date: 2016-11-29 08:48:48 -0500
 ---
 """
     filename.write(header)
@@ -42,7 +42,8 @@ def convert_file_to_markdown(input, output)
     add_old_content_to_new_file(input, output)
 end
 
+
 input_file = open_input_file('example_file.txt')
-output_file = open_output_file('revised_example_file.md')
+output_file = open_output_file('2016-11-29-revised-example-file.markdown')
 
 convert_file_to_markdown(input_file, output_file)
