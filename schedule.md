@@ -78,4 +78,5 @@
 
 ## 12/6/16
 * Homework:
-    Work on your Jekyll Site
+    * Work on your Jekyll site
+    * Outline project plan for winter term. Be specific and realistic. What do you need to do? What do you need to learn? Save to your GitHub folder.
