@@ -9,3 +9,5 @@
 ## future.library project
 * attend meetings
 * edit videos for viewing party
+
+## learn GitHub
