@@ -9,5 +9,11 @@
 ## future.library project
 * attend meetings
 * edit videos for viewing party
+    **Aiden
+    **Austin
+    **Arlette
+    **Rebecca
+    **Ben
+
 
 ## learn GitHub
