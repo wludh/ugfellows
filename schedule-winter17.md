@@ -1,9 +1,14 @@
+For Winter 2017, we will have two 90 minute blocks set aside each week for open office hours and a workshop series. 
+
+Each workshop will be offered twice in the same week to accomodate class schedules. Workshops will be led by library/DH staff and current undergraduate fellows.  
+
+Open office hours will be open to all students, staff, and faculty. Participants can bring questions, project work, or simply hang out and learn what everyone else is working on.  
+
 # Regular meeting schedule
 * Tuesdays, 1:30-3pm
 * Thursdays, 3-4:30pm
 
 # Workshops
-
 * January 17 & 19: Command line 
 * January 31 & February 2: Markdown
 * February 14 & 16: Github
