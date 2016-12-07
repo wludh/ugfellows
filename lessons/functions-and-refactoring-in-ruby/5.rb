@@ -47,3 +47,5 @@ input_file = open_input_file('example_file.txt')
 output_file = open_output_file('2016-11-29-revised-example-file.markdown')
 
 convert_file_to_markdown(input_file, output_file)
+
+# note: there are still some things you would want to change to make this more flexible. You'd want it to read the date and name from the file itself, most likely. and then have that date and name become part of the new filename.

@@ -8,7 +8,7 @@
 # Also makes it easier to find problems. Here we only have to change one character instead of three.
 
 def favorite_book(bookname)
-    puts "My favorite book is" + bookname
+    puts "My favorite book is something like " + bookname
 end
 
 favorite_book('Mrs.Dalloway')

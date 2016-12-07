@@ -3,8 +3,8 @@ book_two = 'Ulysses'
 book_three = 'The Amazing Life of Kavalier and Clay'
 
 print("My favorite book is " + book_one)
-print("My favorite book is " + book_two)
-print("My favorite book is " + book_three)
+print("\nMy favorite book is " + book_two)
+print("\nMy favorite book is " + book_three)
 
 # notice how we do the same thing over and over again? Inefficient. We can refactor this.
 
