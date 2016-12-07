@@ -1,6 +1,6 @@
 For Winter 2017, we will have two 90 minute blocks set aside each week for open office hours and a workshop series. 
 
-Each workshop will be offered twice in the same week to accomodate class schedules. Workshops will be led by library/DH staff and current undergraduate fellows.  
+Each workshop will be offered twice in the same week to accomodate class schedules. Workshops will be led by library/DH staff and current undergraduate fellows. Library staff and faculty will be invited individually to particular workshops so as to avoid overwhelming the student leaders and participants.
 
 Open office hours will be open to all students, staff, and faculty. Participants can bring questions, project work, or simply hang out and learn what everyone else is working on.  
 
