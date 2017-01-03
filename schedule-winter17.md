@@ -16,12 +16,13 @@ Open office hours will be open to all students, staff, and faculty. Participants
 * March 14 & 16: HTML/CSS 
 
 # Open office hours
+BW generally out on Thursdays unless otherwise indicated
 * January 10 & 12
-* January 24 & 26
+* January 24 & 26 (BMW out on 24)
 * February 7 & 9
 * February 21 & 23 (Wash break)
 * March 7 & 9
-* March 21 & 23 (MKB away at ACRL on 3/23)
+* March 21 & 23 (MKB away at ACRL on 3/23, BMW away at NEMLA on 23)
 * March 28 & 30
 * April 4 & 6
 * April 11 & 13
