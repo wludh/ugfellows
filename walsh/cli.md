@@ -1,11 +1,13 @@
-Intro to CLI
+# Intro to CLI
 
-Slide
+* Note: this assumes that you are working on a Mac OS or with Git Bash on a Windows machine.
+
+![rules of programming](img/1.png)
 
 First rule of programming - try to think through what's going on.
 Second rule of programming - ask questions when you don't understand.
 
-Slide
+![finder/gui](img/2.png)
 
 There are two ways of interacting with the computer
 One is what we're used to doing - we take a mouse and click around.
@@ -15,7 +17,7 @@ But there's a much older way that uses only text to interact with the computer.
 Search (go up to the magnifying glass in the upper right corner) for "terminal." Even if you don't think you have it, you do. It ships on all computers.
 You should get something looking like this – 
 
-Slide
+![terminal](img/3.png)
 
 a window with a prompt for you to enter commands. Accordingly, the call this a command prompt or the command line. You might have something similar in any movie that has someone hacking away at a computer as a timer runs down.
 
