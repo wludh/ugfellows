@@ -4,7 +4,7 @@ Copy this template to your own folder and GitHub. Fill it out with information a
 
 ## Project description
 * Give a brief description of your project. 
-* What would your "elevator pitch" be? 
+* What would your "elevator pitch" be (how would you explain your project succinctly to someone you met in the elevator going from the first floor to the fifth)?
 * Do you have a thesis? 
 
 ## Project goals
@@ -18,5 +18,5 @@ Copy this template to your own folder and GitHub. Fill it out with information a
 * Can you order/rank your next steps? 
 
 ## Disclaimer
-* Your "project" doesn't have to be a full-fledged, start to finish project. It could complement work you're doing for a thesis or capstone. You could work to develop your own domain as a customized portfolio. You could continue developing a project idea from another class. You could evaluate the methodology options in a certain area like text analysis or digital exhibits. You could write a detailed tutorial for a DH tool, a la Programming Historian.
+* Your "project" doesn't have to be a full-fledged, start to finish project. It could complement work you're doing for a thesis or capstone. You could work to develop your own domain as a customized portfolio. You could continue developing a project idea from another class. You could evaluate the methodology options in a certain area like text analysis or digital exhibits. You could write a detailed tutorial for a DH tool, a la [Programming Historian](programminghistorian.org).
 * However, you should think about what your final "product" could be. Is it a website? A tutorial? Analysis that serves a traditional paper? 
