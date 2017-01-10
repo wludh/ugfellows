@@ -16,13 +16,13 @@ Done. That was pretty simple.
 (milkyway.jpg)
 
 With the Terminal, I can do the same thing with another file called "Mars.txt". First, I started in my home folder on my computer. When working with command line, folders are _directories_, which is important to remember because the computer will only recognize certain commands. For example, to move into the Desktop directory from my home directory, I have to use 
->cd Desktop
+>$ cd Desktop
 
 This command stands for "change directory". We can't do "cf" for change folder. This is because Macs use the UNIX operating system and language to run. It's probably arbitrary, but since it's a specific language for communicating with a computer, it's the standard way to do this specific task. It's just how it works. From there, I made sure I had Mars.txt in my Desktop directory with 
->ls
+>$ ls
 
 which lists the directory's contents. Once I know it's there, I use 
->mv Mars.txt ~/Desktop/"Milky Way"
+>$ mv Mars.txt ~/Desktop/"Milky Way"
 
 ![Terminal]
 (terminal.jpg)
@@ -38,7 +38,7 @@ The app I'm using is Terminal, the default command line interface tool that come
 
 However, there are a few reasons that computers these days are designed for GUI use. The main reason is user-friendliness. Command line can be clunky, especially if you're new to it and are [learning on your own](https://learnrubythehardway.org/book/appendixa.html "Learn Command Line the Hard Way"). Commands aren't always obvious and it takes some getting used. It's a powerful tool once you know what you're doing but first you have to learn. I was fortunate to have learned the basics of UNIX in my Intro to Programming class during my junior year. Coming armed with that knowledge of how to navigate directories and files meant I just had to relearn all the commands instead of memorizing them from scratch. Brandon made a very useful [command line quiz](https://bmw9t.github.io/command_line_browser_quiz/ "Command line quiz") that made the process even simpler. Of course, you don't need to worry if some keywords fall through the cracks because it's easy to look anything up, but command line is all about speed and knowing everything in your head makes it that much easier. The commands are intuitive once you get to know a few of them, and most of the time if you forget one, you can guess what it is.
 
-Speaking of making it easier, one of the the most interesting parts of command line (to me) is Vim. Vim is an incredibly basic text editor that's included in Terminal. For many people, it's faster to open a .txt file or a .md file in Sublime or Atom instead of using Vim. I usually work with Terminal and a Safari window in full screen together so opening another application's window means I can't see my resources while I work on a file. For me it's faster to open the file in Vim and edit it right there in Terminal rather than switch to a different text editing app. It took a while to learn because it is not intuitive at all, but once you get the hang of it, it's a useful tool for basic files of code or text. You'll probably hate it, and that's fine! I know I'm in the minority when I say I like it, so I get it. All this is deeply customizable; you can change everything about your Terminal, or iTerm, or whichever app you use for command line tools. The beauty of command line is that because you're not using the GUI, you aren't restricted in what you can do on your computer, so you can also change everything about your computer if you want. 
+Speaking of making it easier, one of the the most interesting parts of command line (to me) is Vim. Vim is an incredibly basic text editor that's included in Terminal. For many people, it's faster to open a .txt file or a .md file in Sublime or Atom instead of using Vim. I usually work with Terminal and a Safari window in full screen together so opening another application's window means I can't see my resources while I work on a file. For me it's faster to open the file in Vim and edit it right there in Terminal rather than switch to a different text editing app. It took a while to learn because it is not intuitive at all, but once you get the hang of it, it's a useful tool for basic files of code or text. You'll probably hate it, and that's fine! I know I'm in the minority when I say I like it, so I get it. All this is deeply customizable; you can change everything about your Terminal, or iTerm, or whichever app you use for command line tools. The beauty of command line is that because you're not using the GUI, you aren't restricted in what you can do on your computer, so you can also change everything about your computer if you want. To give you some insight, here's a screenshot of my customized Terminal with Vim open on this blog post. 
 
 ![vim]
 (vim.jpg)
