@@ -5,10 +5,8 @@ Copy this template to your own folder and GitHub. Fill it out with information a
 ## Project description
 I'm working on a website that will include a feature that will allow me to present four versions of a manuscript side by side in their own "panels". I also want to include functionality that allows anyone who visits the website to select a sentence or passage in one panel and have the rest of the panels scroll to the matching part of the selected text in the other manuscripts if the passage is present. 
  
-* What would your "elevator pitch" be (how would you explain your project succinctly to someone you met in the elevator going from the first floor to the fifth)?
 I want to make it possible for multiple versions of a text to be closely examined and analyzed simultaneously, with notes and supplementary materials if possible. This will let anyone working with different versions of manuscripts or translations to seamlessly transition between passages without dealing with multiple windows or copies of texts.
 
-* Do you have a thesis?
 I need to get to a point where my website/plug-in is functional enough for me to use in writing my honors thesis.
 
 ## Project goals
