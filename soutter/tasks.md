@@ -1,5 +1,8 @@
 # Hayley's Tasks
 
+## Week of 1/23/17
+* 
+
 ## Week of 1/16/17
 * Attend/document UNRH
 * poster for Lauren Tilton and Taylor Arnold talk
