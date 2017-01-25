@@ -1,5 +1,9 @@
 # Hayley's Tasks
 
+## Week of 1/30/17
+* Brainstorm poster ideas
+
+
 ## Week of 1/23/17
 * Hang posters for Tilton/Arnold
 * Blog post on UNRH, with photos from Kevin
