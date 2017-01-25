@@ -4,6 +4,7 @@
 * Hang posters for Tilton/Arnold
 * Blog post on UNRH, with photos from Kevin
 * Spreadsheet of DH students
+* profile new fellows
 
 ## Week of 1/16/17
 * Attend/document UNRH
