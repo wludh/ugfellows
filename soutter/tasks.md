@@ -1,7 +1,9 @@
 # Hayley's Tasks
 
 ## Week of 1/23/17
-* 
+* Hang posters for Tilton/Arnold
+* Blog post on UNRH, with photos from Kevin
+* Spreadsheet of DH students
 
 ## Week of 1/16/17
 * Attend/document UNRH
