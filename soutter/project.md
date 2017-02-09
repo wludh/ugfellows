@@ -1,19 +1,12 @@
 ##Project description
 
-Give a brief description of your project.
-What would your "elevator pitch" be (how would you explain your project succinctly to someone you met in the elevator going from the first floor to the fifth)?
-Do you have a thesis?
+An online portfolio that demonstrates my interests and the skills I have learned during my fellowship. Ideally, the portfolio would allow access to the posters I have created for DH events, my blog posts and maybe the Future of the Library video? I want to have descriptions of my tasks/projects.  
 
 ##Project goals
+I would like to have something I can link to on job application. I would like the portfolio to look customized and clean, like Mackenzie's personal site.  
 
-What do want to accomplish with this project?
-What does the final product look like?
-What skills do you want to develop? What technology/methodology do you want to use?
 
 ##Progress
-
-What have you done so far?
-What do you need to do?
-Can you order/rank your next steps?
+Need to organize stuff currently published on Wordpress site. 
 
 ##Disclaimer
