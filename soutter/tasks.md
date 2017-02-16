@@ -7,6 +7,7 @@
 * Spreadsheet of DH students
 * Poster mockups
 * Project plan steps/dates
+* work on GitHub lessons
 
 ## Week of 2/6/17
 * Brainstorm poster ideas
