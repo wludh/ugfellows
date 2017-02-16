@@ -7,12 +7,13 @@
 * Spreadsheet of DH students
 * Poster mockups
 * Project plan steps/dates
+* work on GitHub lessons
 
 ## Week of 2/6/17
 * Brainstorm poster ideas
 * Continue work on two blog posts
 * Outline professional portfolio; use docs/project_plan.md.
-* New DH fellows on website 
+* New DH fellows on website
 * Spreadsheet of DH students
 
 
