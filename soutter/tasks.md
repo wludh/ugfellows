@@ -1,6 +1,6 @@
 # Hayley's Tasks
 
-# Week of 2/13/17
+## Week of 2/13/17
 * Poster + blog for Barton Myers talk
 * Poster + blog for Alex Gil talk
 * New DH fellows on website
