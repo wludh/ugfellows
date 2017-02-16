@@ -1,45 +1,11 @@
-# Git
-* Distributed Version Control.
-* Distributed in the sense that many copies of your work exist in many places.
-* Versioned in the sense that it keeps track of every change you make to every document ever.
-* Control in the sense that you can go back to any old version, change the past, affect the future, etc.
-
-## Git Cheatsheet
-* $ git init
-    * Turns a plain old folder into a git repository that is versioned and ready to track its history (involves making a lot of hidden files and interacting with them).
-* $ git status
-    * Tells you the current state of your directory
-* $ git add .
-    * Adds everything in your current directory to the staging site.
-* $ git commit -m "message"
-    * Takes the current changes you have made and stores them in the longterm memory of the system. Every commit is stored as a series of changes to particular lines and comes with a message describing the changes, the user who made them, and the time.
-* $ git branch branchname
-    * Makes a new branch named branchname, allowing you to test out new changes and features that you want to add.
-* $ git checkout branchname
-    * Change from the master branch to branchname. Any changes you make now will be committed to branchname and will not affect master. You can work happily knowing that your work won't override the official copy of things.
-* $ git merge branchname
-    * Take the differences on branchname and combine them with the current branch. Used for when you have work you have decided is good enough to be part of the public record.
-* $ git log
-    * Get the history of the repository's commit messages.
-* $ git log --graph
-    * Get a pretty visual history of the repository. It will try to graph branches and merges for you.
-* **repository**: another word for a project. Consists of files and folders.
-
-## Git Exercises
-1. Make a git repository
-2. Change into it.
-3. Make a text file.
-4. Make some changes to that file.
-5. Commit them.
-6. Repeat a few times.
-7. Make a branch and switch to it.
-8. On this new branch, make a really noticeable change to the file.
-9. Change back and forth between your branch and master to see the files change.
-
 # GitHub
 * Not equivalent to Git
 * Social media site for storing documents and files
 * Interfaces well with Git
+* Encourages open source workflows
+* Facilitates good project management
+* Can host your own projects
+* Has some esoteric vocabulary that gets in the way
 
 ## GitHub Cheatsheet
 * $ git clone repo_git_url
@@ -49,20 +15,17 @@
 * $ git pull
     * Grab the most up-to-date version of the repository from GitHub and update your local version with them.
 * **remote**: refers to the address of the thing you're pushing and pulling from. So when you clone something, you get a remote that points to its home location. You can add others, though, if you wanted to pull from one source and push to another location.
+* commit - a change
+* commit message - describes the change you made
 
 ## GitHub Exercises
 
 1. Make a GitHub account
-2. Clone our Fellows repository.
-3. Sign your name at the bottom of this file.
-4. Sync the GitHub remote with your local version.
-5. Refresh this page to see your changes.
-
----
-Signatures
-~~~~~~~~
-@abdurkhanye was here
-
-`
-++++++++
-Aidan Valente
+2. Make a repository of the name USERNAME.github.io where USERNAME is your username
+3. Initialize with readme
+4. Create a new file called index.html
+5. Upload the contents of [this page](https://raw.githubusercontent.com/bmw-test/bmw-test.github.io/master/index.html) to your index.html file.
+6. Give a commit message at the bottom and commit!
+7. Visit your https://username.github.io to see your page in the wild.
+8. Make another change by going through the workflow.
+9. And another!

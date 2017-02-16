@@ -27,10 +27,20 @@ DH Fellows take over [WLU Library instagram](https://www.instagram.com/wlulibrar
 * Undergraduate Network for Research in the Humanities conference, hosted at W&L
 
 ## February
+* 2/2/17 - [Visit from Taylor Arnold and Lauren Tilton](http://digitalhumanities.wlu.edu/blog/2017/01/22/dh-event-digital-humanities-data-analysis-and-its-possibilities/)
+* 2/2/17 - [Footprints in the Digital Dust - Jennifer Golbeck](https://www.wlu.edu/mudd-center/programs-and-events/2016-2017-markets-and-morals/jennifer-golbecks)
 * 2/3/17 > deadline for SSA 
 
 ## March
-* Friday, 3/17/17 > SSA 
+* 3/13/17 - Visit from Alex Gil
+* 3/17/17 - SSA
+* 3/21/17 - Jason Mickel talks JavaScript
+* 3/23/17 - MKB, BW away at conferences
+
+## April
+
+
+## May
 
 ## Unscheduled
 * Workshop with Buena Vista High School students 

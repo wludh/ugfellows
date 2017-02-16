@@ -1,5 +1,32 @@
 # Hayley's Tasks
 
+## Week of 2/13/17
+* Poster + blog for Barton Myers talk
+* Poster + blog for Alex Gil talk
+* New DH fellows on website
+* Spreadsheet of DH students
+* Poster mockups
+* Project plan steps/dates
+
+## Week of 2/6/17
+* Brainstorm poster ideas
+* Continue work on two blog posts
+* Outline professional portfolio; use docs/project_plan.md.
+* New DH fellows on website
+* Spreadsheet of DH students
+
+
+## Week of 1/30/17
+* Brainstorm poster ideas
+* Storify #unrh17
+
+
+## Week of 1/23/17
+* Hang posters for Tilton/Arnold
+* Blog post on UNRH, with photos from Kevin
+* Spreadsheet of DH students
+* profile new fellows
+
 ## Week of 1/16/17
 * Attend/document UNRH
 * poster for Lauren Tilton and Taylor Arnold talk
@@ -21,9 +48,3 @@
 
 ## learn GitHub
 ## learn HTML and CSS
-
-## Winter Term project ideas
-* add new fellows to website page
-* Future of the Library meetings
-* updates to website (DHAT, Incentive Grant awardees)
-* attend upcoming DH events and write about in blog

@@ -17,3 +17,12 @@ In fall 2016, we have three fellows:
 * [Abdur Khan](/khan/) - working on a Jekyll plugin for converting TEI to markdown. Also learning Ruby and Ruby on Rails to work with the [Huon d'Auvergne](huondauvergene.org) project.
 * [Aidan Valente](/valente/) - working on a Jekyll plugin for converting TEI to markdown digital archiving.
 * [Haley Soutter](/soutter/) - working on strategic communciations in the University Library.
+
+In winter 2017, we've added the following fellows:
+* Arlette Hernandez - returning from Winter 2016 after studying abroad in England.
+* Will Tucker - politics major interested in text analysis of email archives. 
+* Cat Spencer - research assistant on Prof. Stephanie Sandberg's *Understanding Human Trafficking* project.
+* Sonia Brozak - research assistant on Prof. George Bent's *Florence As It Was* project. 
+* Miles Bent - research assistant on Prof. George Bent's *Florence As It Was* project. 
+* Sam Joseph - research assistant on Prof. George Bent's *Florence As It Was* project. 
+

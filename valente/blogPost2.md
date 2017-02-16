@@ -37,7 +37,7 @@ to start transcribing as quickly and painlessly as possible.
 While plaintext is great for its simplicity, it still helps to have a few more
 features that Notepad lacks. Using the text editor __Atom__ allows me to keep
 track of particular elements by highlighting Markdown syntax, as seen here:
-<img src="https://github.com/valenteaidan/valenteaidan.github.io/blob/master/atom_example.png" alt="Atom" style="width: 300px;"/>
+<img src="https://github.com/wludh/ugfellows/blob/master/valente/atom_example.png" alt="Atom" style="width: 300px;"/>
 
 Items in orange are bold and indicate important sections of text, such as
 passage headers/titles. Items in purple have been italicized by me, indicating

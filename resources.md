@@ -3,6 +3,7 @@
 ## Code etc.
 * [CLIR Programming Guides](https://github.com/clirdlf/programming_guides)
 * [Command Line Browser Quiz](https://bmw9t.github.io/command_line_browser_quiz/)
+* [Intro to Bash Command Line - Programming Historian](http://programminghistorian.org/lessons/intro-to-bash)
 * [GitHub](https://github.com/)
 * [Humanities Programming](http://humanitiesprogramming.github.io/)
 * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
