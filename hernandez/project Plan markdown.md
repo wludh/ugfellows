@@ -1,4 +1,4 @@
-->**DH Project Plan**<-
+<h3 style="text align: center;" markdown="1">**DH Project Plan**</h3>
 **Time Window:** January 2017 to May 2017
 **Project Description:**
 My project is largely concerned with discourse as it pertains to processes of knowledge production, replication, and misrepresentation. I use [special collections materials](http://archivesspace.wlu.edu/repositories/5/resources/846) from Thomas Gosse, whose family traveled up and down the eastern coast of the continent in 1929. Through diary entries, photos, and films, I analyze the ways in which ideas about the African continent and its peoples are produced, perpetuated, and distorted. Ultimately, I argue that these materials, though seemingly innocuous, misrepresent Africa through tropes of primitivism, absence, and ultra-naturalness. These misrepresentations and the medium of photography as a whole deprive Africans of voice and agency, while also contributing to an Africanist discourse that is not centered around words or ideas, but images, supporting another one of my central arguments that when it comes to the African continent, it is mostly understood through a series of photos.
