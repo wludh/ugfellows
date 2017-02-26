@@ -1,6 +1,6 @@
 # Introductions
 My name is Sam Joseph.
-I'm a sophomore at Washington & Lee University, working on the "Florence As It Was" *Digital Humanities* project. The goal of the project is to produce a VR rendering of Renaissance Florence contextualized by artworks in situ and didatic excerpts. My job is largely focused on 3D modeling buildings in *Cinema 4D*, but I also  work on Latin translations and designed the project logo:
+I'm a sophomore at Washington & Lee University, working on the "Florence As It Was" *Digital Humanities* project. The goal of the project is to produce a VR rendering of Renaissance Florence contextualized by artworks in situ and didactic excerpts. My job is largely focused on 3D modeling buildings in *Cinema 4D*, but I also  work on Latin translations and designed the project logo:
 ![Florence As It Was](https://github.com/wludh/ugfellows/blob/master/Joseph/Palazzo-Vecchio-without-expulsion.png)
 Currently I am working on simple 3D models to produce a broad map of Early Republican Florence. To create the 3D models:
 1. I start in *Adobe Illustrator* with a given map of Early Republican Florence.
