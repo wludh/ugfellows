@@ -1,0 +1,18 @@
+this is a test file. i am writing some text so that this file has text in it. mission accomplished.
+
+
+here is another change with more text. we’re having a great time here.
+
+cd means “change directory” (i.e. go to a new folder)
+
+
+git init means “make a repository”
+git status means “tell me about this file”
+git add [filename] means “add a file to the repository”
+git commit -m “[message]” means “add commentary on the change you’ve made
+git log —graph means “show me a tree of the commit history”
+git remote add ____ [git url] means “I would like to upload these changes/files to a GitHub page”
+git remove -v means “
+git push means “upload this to the internet”
+git push -u ____ master means “upload this to the ____ file on the interweb”
+git pull -u ____ master means “download this from the ____ file not the internet”
