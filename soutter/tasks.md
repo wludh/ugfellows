@@ -1,5 +1,10 @@
 # Hayley's Tasks
 
+##Week of 2/27
+* Barton Myers Talk
+* blog post and poster for Alex Gil talk
+* stylize own website 
+
 ## Week of 2/13/17
 * Poster + blog for Barton Myers talk
 * Poster + blog for Alex Gil talk
