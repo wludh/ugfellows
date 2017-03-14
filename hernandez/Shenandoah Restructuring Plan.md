@@ -20,7 +20,7 @@ Aesthetically, these are just a few changes we can make. All should work to esta
 
 ### Other ideas
 While rebranding the website is probably the most important step to take, we should also consider refining and increasing the services the website has to offer.
-Like *The Missouri Review*, we can offer audio services, which would appeal to our regular readers while also drawing in those who may be visually impaired.
-We can increase user/website engagement by offering weekly writing prompts, which could also be implemented in creative writing classes on campus while also encouraging readership.
-We can craft digital chapbooks or pair with campus activities organizations to coordinate author interviews to be housed online.
-We can construct a digital archive of past issues, a project that could potentially be funded through the SRS program.
++ Like *The Missouri Review*, we can offer audio services, which would appeal to our regular readers while also drawing in those who may be visually impaired.
++ We can increase user/website engagement by offering weekly writing prompts, which could also be implemented in creative writing classes on campus while also encouraging readership.
++ We can craft digital chapbooks or pair with campus activities organizations to coordinate author interviews to be housed online.
++ We can construct a digital archive of past issues, a project that could potentially be funded through the SRS program.
