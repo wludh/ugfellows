@@ -7,13 +7,11 @@ To start, command line is an interface that allows the user to control features 
 
 With the GUI, I'll drag and drop the "Earth.txt" file into the Milky Way folder on my desktop.
 
-![Desktop]
-(desktop.jpg)
+![Desktop](desktop.jpg)
 
 Done. That was pretty simple. 
 
-![Milky Way]
-(milkyway.jpg)
+![Milky Way](milkyway.jpg)
 
 With the Terminal, I can do the same thing with another file called "Mars.txt". First, I started in my home folder on my computer. When working with command line, folders are _directories_, which is important to remember because the computer will only recognize certain commands. For example, to move into the Desktop directory from my home directory, I have to use 
 >$ cd Desktop
@@ -31,8 +29,7 @@ This command has three different parts. The mv is the actual command; it moves a
 
 So, that's how you can accomplish one simple task with command line. 
 
-![Milky Way]
-(milkyway2.jpg)
+![Milky Way](milkyway2.jpg)
 
 The app I'm using is Terminal, the default command line interface tool that comes with Macs. There are other command line apps out there, and they all come with different features. Whichever one you use depends mostly on personal preference, so I'm fine with Terminal for now. There's a certain element of novelty when you're using the Terminal to control your computer if you've only ever used the GUI to make your way through the folders and applications. On a Mac, I expected this process to be a bit difficult, but so far it's been simple to install the various tools we've been using during the semester. Almost all the problems I had were because I made a mistake during the installation process. 
 
@@ -40,8 +37,7 @@ However, there are a few reasons that computers these days are designed for GUI 
 
 Speaking of making it easier, one of the the most interesting parts of command line (to me) is Vim. Vim is an incredibly basic text editor that's included in Terminal. For many people, it's faster to open a .txt file or a .md file in Sublime or Atom instead of using Vim. I usually work with Terminal and a Safari window in full screen together so opening another application's window means I can't see my resources while I work on a file. For me it's faster to open the file in Vim and edit it right there in Terminal rather than switch to a different text editing app. It took a while to learn because it is not intuitive at all, but once you get the hang of it, it's a useful tool for basic files of code or text. You'll probably hate it, and that's fine! I know I'm in the minority when I say I like it, so I get it. All this is deeply customizable; you can change everything about your Terminal, or iTerm, or whichever app you use for command line tools. The beauty of command line is that because you're not using the GUI, you aren't restricted in what you can do on your computer, so you can also change everything about your computer if you want. To give you some insight, here's a screenshot of my customized Terminal with Vim open on this blog post. 
 
-![vim]
-(vim.jpg)
+![vim](vim.jpg)
 
 I told you that command line was fun, but I'm sure all of this may not sound all that fun to you. That's ok! The fun part comes now: Github. Aidan wrote a post about Github from his perspective which you should read to get an idea of how it works on a PC. There are some differences in getting it to work, but the process is the same. Github consists of repositories for mainly code but all sorts of data can be hosted on it. For example, the original code used to launch Apollo 11 is hosted in a [repository](https://github.com/chrislgarry/Apollo-11 "Original Apollo 11 code") on Github for anyone to look at. Github uses Git, a sort of programming language but simpler, to communicate with computers. After developing a long document of code or a blog post, you'll have to _push_ it to our Github repository. I had to look up how to do it the first few times, but the process is extremely satisfying. It's fun to work on a project on your computer and instantly see it on the internet as soon as you're done. I'll be writing another post about Github soon, so don't worry about the details just yet.
 
