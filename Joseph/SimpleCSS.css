@@ -1,0 +1,26 @@
+
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: gray;
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+}
+
+p {
+    font-family: helvetica;
+    color: pink;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+a {
+    font-family:helvetica;
+    color: black;
+    font-size: 5px;
+    text-align: center;
+}
