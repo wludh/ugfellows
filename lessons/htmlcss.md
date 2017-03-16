@@ -36,7 +36,7 @@ Our next building block of the web is CSS, or Cascading Style Sheets. HTML struc
 CSS has a different syntax than HTML. First you identify the HTML tag, then you declare the styles you wish to apply. 
 
 ```
-title {color: red;}
+h1 {color: red;}
 ```
 
 ### Resources
