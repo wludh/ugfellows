@@ -1,6 +1,12 @@
 # Hayley's Tasks
 
-##Week of 2/27
+## Week of 3/15
+* portfolio website
+* blog post on using Canva? 
+* poster for Fellows presentation
+
+
+## Week of 2/27
 * Barton Myers Talk
 * blog post and poster for Alex Gil talk
 * stylize own website 
