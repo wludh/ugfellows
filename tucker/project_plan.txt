@@ -1,10 +1,10 @@
-﻿# Project planning
+?# Project planning
 2
-​
+?
 3
 Copy this template to your own folder and GitHub. Fill it out with information about your own project. 
 4
-​
+?
 5
 ## Project description
 6
@@ -13,7 +13,7 @@ Copy this template to your own folder and GitHub. Fill it out with information a
 * "I am creating a cloud of the topics discussed in every one of Podesta's emails, and analyzing them to reveal the trends over time. 
 * Not so much a thesis. I believe that the results will be very telling, but I am honestly unsure of whether or not the Clinton campaign was as corrupt as it was portrayed.
 9
-​
+?
 10
 ## Project goals
 11
@@ -23,7 +23,7 @@ Copy this template to your own folder and GitHub. Fill it out with information a
 13
 * W
 14
-​
+?
 15
 ## Progress
 16
@@ -33,7 +33,7 @@ Copy this template to your own folder and GitHub. Fill it out with information a
 18
 * Can you order/rank your next steps? 
 19
-​
+?
 20
 ## Disclaimer
 21
