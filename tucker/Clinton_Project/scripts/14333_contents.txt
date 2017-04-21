@@ -1,0 +1,101 @@
+[<div class="tab-content">
+<div class="tab-pane fade active in" id="content">
+<h2>HONDURAS: MAYBE, MAYBE</h2>
+<header id="header">
+					From: <span title="Original: Mills, Chery D">Cheryl Mills</span>
+					To: <span title="Original: Hillary Clinton">Hillary Clinton</span>
+					Date: 2009-08-28 13:30
+					Subject: HONDURAS: MAYBE, MAYBE
+				</header>
+<div class="email-content" id="uniquer">
+<span class="unclassified">UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05764911 Date: 07/31/2015</span>
+<span class="unclassified">RELEASE IN PART</span>
+
+                                                                                              B6
+
+ <span class="inlinemeta">From:	                          Mills, Cheryl D &lt;MillsCD@state.gov&gt;
+Sent:	                           Saturday, August 29, 2009 8:30PM
+</span>
+<span class="inlinemeta">To:
+Subject:	                        Fw: Honduras: Maybe, maybe
+</span>
+
+ Fyi
+
+ <span class="inlinemeta">From: Kelly, Craig A
+To:  Mills, Cheryl D; Abedin, Huma; Sullivan, Jacob 3
+Cc: Smith, Daniel B; Macmanus, Joseph E
+Sent:  Sat Aug 29 16:53:56 2009
+</span>
+<span class="inlinemeta">Subject:  Fw: Honduras: Maybe, maybe
+</span>
+Attached is from Lew Amselem, our rep to OAS. He gives a readout of his conversation today with Arias Accord
+ negotiator Jon Biehl. Some nice comments about S from Biehi and Arias. I will forward another note from Hugo Llorens
+with similar message. Best, ck
+
+<span class="inlinemeta">From: Amselem, W Lewis
+To: Task Force Honduras; Otero, Maria
+Sent:  Sat Aug 29 13:54:22 2009
+Subject:  Honduras: Maybe, maybe
+</span>
+<span class="inlinemeta">From: amseleM
+To: Amselem, W Lewis
+</span>
+<span class="inlinemeta">Sent: Sat Aug 29 13:51:00 2009
+Subject:
+</span>
+Biehi called a little after 1:30 pm to say the meeting with the de facto envoys had been abruptly cancelled -- but
+for perhaps a positive reason.
+
+Micheletti has asked about half the team to return to Tegucigalpa (Corrales stayed, as "he seeks to confirm that
+
+he will not lose his visa"). In the phone call he got from the de facto envoys as they headed for the airport,
+Biehl said he detected a positive attitude. The envoys seemed confident they would get M to sign the SJ
+Accord. The envoys prmoised to call Biehi late this afternoon with the news from Honduras. If, if, if, if, the
+
+news is positive, Biehl and OAS Political Director Victor Rico will leave for Tegucigalpa tomorrow morning to
+meet Micheletti, make sure this is not another time-wasting tactic, and get something in writing from him that
+he agrees to the Accord and will sign it.
+
+Just before speaking to me, Biehl had spoken with Arias who expressed cautious optimisim that we might have
+a break-through. Arias told Biehl to tell us, that if that happens the United States gets the credit.
+
+Arias said the US has played the game exactly right, with the appropriate mix of carrots, sticks, toughness,
+unified message, even-handedness and, above all, good timing. Arias said the Europeans have been calling him
+
+over the past two days, and have fallen into line with the US; the Swedes, as head of the EU, and have told him
+that they will take their cue from the US and will support US actions. Arias, Biehi said, was extremely
+complimentary of the "great political instincts shown by Secretary Clinton."
+
+                                                        -1-4n
+
+      <span class="unclassified">UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05764911 Date: 07/31/2015</span>
+
+With fingers crossed, the old rabbit's foot out of the box in the attic, I will be sacrificing a chicken in the
+
+backyard to Moloch . . .
+
+                                                          Tri
+				</div>
+</div>
+<div class="tab-pane fade" id="source">
+<iframe src="./14333_files/viewer.html" style="width:100%; height:600px"></iframe>
+<p><a download="" href="https://wikileaks.org/clinton-emails/Clinton_Email_July_Release/C05764911.pdf">Download Clinton_Email_July_Release/C05764911.pdf</a></p>
+</div>
+<div class="tab-pane fade" id="share">
+<form>
+<div class="form-group">
+<label for="permalink">Permalink</label>
+<input class="form-control" id="permalink" name="permalink" type="text" value="https://www.wikileaks.org/clinton-emails/emailid/14333">
+</input></div>
+<div class="form-group">
+<label for="pdflink">Direct link to PDF</label>
+<input class="form-control" id="pdflink" name="pdflink" type="text" value="https://www.wikileaks.org/clinton-emails/Clinton_Email_July_Release/C05764911.pdf">
+</input></div>
+<div class="form-group">
+<label for="embed">Embed code</label>
+<input class="form-control" id="embed" name="embed" type="text" value='&lt;iframe src="https://www.wikileaks.org/clinton-emails/emailid/14333?embed=1"&gt;&lt;/iframe&gt;'>
+</input></div>
+</form>
+</div>
+</div>]

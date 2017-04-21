@@ -1,3 +1,4 @@
+
 print ("You walk down a wooded path, the dark trees blocking your view of the three paths you just arrived at. Standing at the junction, you notice the first path curves away, the second is straight but dark, and the third has a cool breeze coming out of it.")
 print ("Which path do you choose? 1, 2, or 3?")
 path = input("> ")

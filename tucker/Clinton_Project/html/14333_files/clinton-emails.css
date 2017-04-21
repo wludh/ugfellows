@@ -1,0 +1,46 @@
+<html>
+
+	<head>
+
+		<title>WikiLeaks</title>
+
+		<style type="text/css">
+
+			img{ border: 0px;}
+
+			body{ margin: 30px auto; width: 800px; font-family: verdana, tahoma; font-size: medium;}
+
+			.pane{ float: left; width: 40%; text-align: center; margin: 10px;}
+
+			.pane p{ text-align: justify;}
+
+			.pane h1{ font-size: x-large; margin: 10px;}
+
+
+
+		</style>
+
+	</head>
+
+	<body>
+
+		<div class="pane">
+
+			<img src="/static/gfx/WL_Hour_Glass_small.jpg" />
+
+		</div>
+
+		<div class="pane">
+
+			<h1>404</h1>
+
+			<p>We are sorry, the file you have requested could not be found.</p>
+
+			<p>Please wait few minutes and try again.</p>
+
+		</div>
+
+	</body>
+
+</html>
+

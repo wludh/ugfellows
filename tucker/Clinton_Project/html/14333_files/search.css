@@ -1,0 +1,141 @@
+#content {
+	white-space: pre-line;
+}
+#content li p {
+	clear: none;
+	display: inline;
+}
+
+.attachments li {
+	margin-top: 10px;
+	width: 250px;
+	height: 150px;
+	text-align: center;
+
+}
+.attachments li span {
+	padding-top: 20px;
+	padding-bottom: 10px;
+	display: block;
+	font-size: xx-large;
+}
+.attachments li a {
+	display: block;
+	height: 100%;
+	width: 100%;
+	border: 1px solid transparent;
+}
+.attachments li a:hover {
+	border: 1px solid #ccc;
+}
+#content li {
+	clear: none;
+	white-space: initial;
+	margin-left: 10px;
+}
+.center {
+	text-align: center;
+}
+.tab-content {
+	border: 1px solid #ccc;
+	border-top: 0px;
+	padding: 10px;
+	border-radius: 0px 0px 5px 5px;
+	-webkit-border-radius: 0px 0px 5px 5px;
+	-moz-border-radius: 0px 0px 5px 5px;
+}
+.search-form td {
+	width: 50%;
+}
+
+.search-result tr th {
+	width: 25%;
+}
+.search-result tr th:first-child {
+	width: 5%;
+}
+.search-result tr th:nth-child(2) {
+	width: 15%;
+}
+.search-result tr th:nth-child(3) {
+	width: 30%;
+}
+.tree>li {
+    margin: 0px 0px;
+	list-style-type: none;
+    position: relative;
+	padding: 5px 5px 5px 25px;
+}
+
+.tree>li::before{
+    content: '';
+	position: absolute;
+    top: 0px;
+	width: 1px;
+    height: 100%;
+	right: auto;
+    left: 0px;
+
+    bottom: 50px;
+}
+.tree>li::after{
+    content: '';
+	position: absolute;
+    top: 50%;
+	width: 25px;
+    height: 20px;
+	right: auto;
+    left: 0px;
+	border-top: 1px solid #ccc;
+}
+.tree>li .el {
+    display: inline-block;
+	border: 1px solid #ccc;
+
+	padding: 0px 10px 0px 10px;
+	text-decoration: none;
+	color: #666;
+	font-family: arial, verdana, tahoma;
+	font-size: 11px;
+    border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+
+	min-width: 200px;
+}
+.tree>li.fulltext .el {
+	border-radius: 0px 5px 5px 5px;
+	-webkit-border-radius: 0px 5px 5px 5px;
+	-moz-border-radius: 0px 5px 5px 5px;
+	border-top: none;
+}
+.tree>li .el>* {
+	border: 0px;
+}
+.tree>li.fulltext ul {
+
+}
+.tree {
+	border-left: 1px solid #ccc;
+
+}
+.tree h2 {
+	font-size: medium;
+}
+
+#layout-switcher {
+	position: fixed;
+	bottom: 5px;
+	left: 5px;
+	font-size: x-large;
+	cursor: pointer;
+}
+
+@media (max-width: 900px) {
+	#left-pane {
+		display: none;
+	}
+	#layout-switcher {
+		display: none;
+	}
+}
