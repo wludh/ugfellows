@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<!-- saved from url=(0125)https://www.wikileaks.org/pdfjs/web/viewer.html?file=/clinton-emails/Clinton_Email_July_Release/C05764909.pdf#zoom=page-width -->
+<html dir="ltr" mozdisallowselectionprint="" moznomarginboxes=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="google" content="notranslate">
+    <title>PDF.js viewer</title>
+
+
+    <link rel="stylesheet" href="./viewer.css">
+
+    <script src="./compatibility.js.download"></script>
+
+
+
+<!-- This snippet is used in production (included from viewer.html) -->
+<link rel="resource" type="application/l10n" href="https://www.wikileaks.org/pdfjs/web/locale/locale.properties">
+<script src="./l10n.js.download"></script>
+<script src="./pdf.js.download"></script>
+
+
+
+    <script src="./debugger.js.download"></script>
+    <script src="./viewer.js.download"></script>
+
+  </head>
+
+  <body tabindex="1" class="">
+    <div id="outerContainer">
+
+      <div id="sidebarContainer">
+        <div id="toolbarSidebar">
+          <div class="splitToolbarButton toggled">
+            <button id="viewThumbnail" class="toolbarButton group toggled" title="Show Thumbnails" tabindex="2" data-l10n-id="thumbs">
+               <span data-l10n-id="thumbs_label">Thumbnails</span>
+            </button>
+            <button id="viewOutline" class="toolbarButton group" title="Show Document Outline" tabindex="3" data-l10n-id="outline">
+               <span data-l10n-id="outline_label">Document Outline</span>
+            </button>
+            <button id="viewAttachments" class="toolbarButton group" title="Show Attachments" tabindex="4" data-l10n-id="attachments" disabled="">
+               <span data-l10n-id="attachments_label">Attachments</span>
+            </button>
+          </div>
+        </div>
+        <div id="sidebarContent">
+          <div id="thumbnailView">
+          <a href="https://www.wikileaks.org/pdfjs/web/viewer.html?file=/clinton-emails/Clinton_Email_July_Release/C05764909.pdf#page=1" title="Page 1"><div id="thumbnailContainer1" class="thumbnail selected"><div class="thumbnailSelectionRing" style="width: 100px; height: 127px;"></div></div></a></div>
+          <div id="outlineView" class="hidden"><div class="outlineItem"><a href="https://www.wikileaks.org/pdfjs/web/viewer.html?file=/clinton-emails/Clinton_Email_July_Release/C05764909.pdf#page=1&amp;zoom=page-width,0,799">Page 1</a></div></div>
+          <div id="attachmentsView" class="hidden"></div>
+        </div>
+      </div>  <!-- sidebarContainer -->
+
+      <div id="mainContainer">
+        <div class="findbar hidden doorHanger hiddenSmallView" id="findbar">
+          <label for="findInput" class="toolbarLabel" data-l10n-id="find_label">Find:</label>
+          <input id="findInput" class="toolbarField" tabindex="91">
+          <div class="splitToolbarButton">
+            <button class="toolbarButton findPrevious" title="Find the previous occurrence of the phrase" id="findPrevious" tabindex="92" data-l10n-id="find_previous">
+              <span data-l10n-id="find_previous_label">Previous</span>
+            </button>
+            <div class="splitToolbarButtonSeparator"></div>
+            <button class="toolbarButton findNext" title="Find the next occurrence of the phrase" id="findNext" tabindex="93" data-l10n-id="find_next">
+              <span data-l10n-id="find_next_label">Next</span>
+            </button>
+          </div>
+          <input type="checkbox" id="findHighlightAll" class="toolbarField">
+          <label for="findHighlightAll" class="toolbarLabel" tabindex="94" data-l10n-id="find_highlight">Highlight all</label>
+          <input type="checkbox" id="findMatchCase" class="toolbarField">
+          <label for="findMatchCase" class="toolbarLabel" tabindex="95" data-l10n-id="find_match_case_label">Match case</label>
+          <span id="findMsg" class="toolbarLabel"></span>
+        </div>  <!-- findbar -->
+
+        <div id="secondaryToolbar" class="secondaryToolbar hidden doorHangerRight">
+          <div id="secondaryToolbarButtonContainer" style="max-height: -40px;">
+            <button id="secondaryPresentationMode" class="secondaryToolbarButton presentationMode visibleLargeView hidden" title="Switch to Presentation Mode" tabindex="51" data-l10n-id="presentation_mode">
+              <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+            </button>
+
+            <button id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView" title="Open File" tabindex="52" data-l10n-id="open_file">
+              <span data-l10n-id="open_file_label">Open</span>
+            </button>
+
+            <button id="secondaryPrint" class="secondaryToolbarButton print visibleMediumView" title="Print" tabindex="53" data-l10n-id="print">
+              <span data-l10n-id="print_label">Print</span>
+            </button>
+
+            <button id="secondaryDownload" class="secondaryToolbarButton download visibleMediumView" title="Download" tabindex="54" data-l10n-id="download">
+              <span data-l10n-id="download_label">Download</span>
+            </button>
+
+            <a href="https://www.wikileaks.org/pdfjs/web/viewer.html?file=/clinton-emails/Clinton_Email_July_Release/C05764909.pdf#page=1&amp;zoom=page-width,-50,799" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView" title="Current view (copy or open in new window)" tabindex="55" data-l10n-id="bookmark">
+              <span data-l10n-id="bookmark_label">Current View</span>
+            </a>
+
+            <div class="horizontalToolbarSeparator visibleLargeView"></div>
+
+            <button id="firstPage" class="secondaryToolbarButton firstPage" title="Go to First Page" tabindex="56" data-l10n-id="first_page" disabled="">
+              <span data-l10n-id="first_page_label">Go to First Page</span>
+            </button>
+            <button id="lastPage" class="secondaryToolbarButton lastPage" title="Go to Last Page" tabindex="57" data-l10n-id="last_page" disabled="">
+              <span data-l10n-id="last_page_label">Go to Last Page</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="pageRotateCw" class="secondaryToolbarButton rotateCw" title="Rotate Clockwise" tabindex="58" data-l10n-id="page_rotate_cw">
+              <span data-l10n-id="page_rotate_cw_label">Rotate Clockwise</span>
+            </button>
+            <button id="pageRotateCcw" class="secondaryToolbarButton rotateCcw" title="Rotate Counterclockwise" tabindex="59" data-l10n-id="page_rotate_ccw">
+              <span data-l10n-id="page_rotate_ccw_label">Rotate Counterclockwise</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="toggleHandTool" class="secondaryToolbarButton handTool" title="Enable hand tool" tabindex="60" data-l10n-id="hand_tool_enable">
+              <span data-l10n-id="hand_tool_enable_label">Enable hand tool</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="documentProperties" class="secondaryToolbarButton documentProperties" title="Document Properties…" tabindex="61" data-l10n-id="document_properties">
+              <span data-l10n-id="document_properties_label">Document Properties…</span>
+            </button>
+          </div>
+        </div>  <!-- secondaryToolbar -->
+
+        <div class="toolbar">
+          <div id="toolbarContainer">
+            <div id="toolbarViewer">
+              <div id="toolbarViewerLeft">
+                <button id="sidebarToggle" class="toolbarButton" title="Toggle Sidebar" tabindex="11" data-l10n-id="toggle_sidebar">
+                  <span data-l10n-id="toggle_sidebar_label">Toggle Sidebar</span>
+                </button>
+                <div class="toolbarButtonSpacer"></div>
+                <button id="viewFind" class="toolbarButton group hiddenSmallView" title="Find in Document" tabindex="12" data-l10n-id="findbar">
+                   <span data-l10n-id="findbar_label">Find</span>
+                </button>
+                <div class="splitToolbarButton">
+                  <button class="toolbarButton pageUp" title="Previous Page" id="previous" tabindex="13" data-l10n-id="previous" disabled="">
+                    <span data-l10n-id="previous_label">Previous</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button class="toolbarButton pageDown" title="Next Page" id="next" tabindex="14" data-l10n-id="next" disabled="">
+                    <span data-l10n-id="next_label">Next</span>
+                  </button>
+                </div>
+                <label id="pageNumberLabel" class="toolbarLabel" for="pageNumber" data-l10n-id="page_label">Page:</label>
+                <input type="number" id="pageNumber" class="toolbarField pageNumber" value="1" size="4" min="1" tabindex="15" max="1">
+                <span id="numPages" class="toolbarLabel">of 1</span>
+              </div>
+              <div id="toolbarViewerRight">
+                <button id="presentationMode" class="toolbarButton presentationMode hiddenLargeView hidden" title="Switch to Presentation Mode" tabindex="31" data-l10n-id="presentation_mode">
+                  <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+                </button>
+
+                <button id="openFile" class="toolbarButton openFile hiddenLargeView" title="Open File" tabindex="32" data-l10n-id="open_file">
+                  <span data-l10n-id="open_file_label">Open</span>
+                </button>
+
+                <button id="print" class="toolbarButton print hiddenMediumView" title="Print" tabindex="33" data-l10n-id="print">
+                  <span data-l10n-id="print_label">Print</span>
+                </button>
+
+                <button id="download" class="toolbarButton download hiddenMediumView" title="Download" tabindex="34" data-l10n-id="download">
+                  <span data-l10n-id="download_label">Download</span>
+                </button>
+                <a href="https://www.wikileaks.org/pdfjs/web/viewer.html?file=/clinton-emails/Clinton_Email_July_Release/C05764909.pdf#page=1&amp;zoom=page-width,-50,799" id="viewBookmark" class="toolbarButton bookmark hiddenSmallView" title="Current view (copy or open in new window)" tabindex="35" data-l10n-id="bookmark">
+                  <span data-l10n-id="bookmark_label">Current View</span>
+                </a>
+
+                <div class="verticalToolbarSeparator hiddenSmallView"></div>
+
+                <button id="secondaryToolbarToggle" class="toolbarButton" title="Tools" tabindex="36" data-l10n-id="tools">
+                  <span data-l10n-id="tools_label">Tools</span>
+                </button>
+              </div>
+              <div class="outerCenter">
+                <div class="innerCenter" id="toolbarViewerMiddle">
+                  <div class="splitToolbarButton">
+                    <button id="zoomOut" class="toolbarButton zoomOut" title="Zoom Out" tabindex="21" data-l10n-id="zoom_out">
+                      <span data-l10n-id="zoom_out_label">Zoom Out</span>
+                    </button>
+                    <div class="splitToolbarButtonSeparator"></div>
+                    <button id="zoomIn" class="toolbarButton zoomIn" title="Zoom In" tabindex="22" data-l10n-id="zoom_in">
+                      <span data-l10n-id="zoom_in_label">Zoom In</span>
+                     </button>
+                  </div>
+                  <span id="scaleSelectContainer" class="dropdownToolbarButton" style="min-width: 122px; max-width: 122px;">
+                     <select id="scaleSelect" title="Zoom" tabindex="23" data-l10n-id="zoom" style="min-width: 144px;">
+                      <option id="pageAutoOption" title="" value="auto" selected="selected" data-l10n-id="page_scale_auto">Automatic Zoom</option>
+                      <option id="pageActualOption" title="" value="page-actual" data-l10n-id="page_scale_actual">Actual Size</option>
+                      <option id="pageFitOption" title="" value="page-fit" data-l10n-id="page_scale_fit">Page Fit</option>
+                      <option id="pageWidthOption" title="" value="page-width" data-l10n-id="page_scale_width">Page Width</option>
+                      <option id="customScaleOption" title="" value="custom"></option>
+                      <option title="" value="0.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 50 }">50%</option>
+                      <option title="" value="0.75" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 75 }">75%</option>
+                      <option title="" value="1" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 100 }">100%</option>
+                      <option title="" value="1.25" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 125 }">125%</option>
+                      <option title="" value="1.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 150 }">150%</option>
+                      <option title="" value="2" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 200 }">200%</option>
+                      <option title="" value="3" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 300 }">300%</option>
+                      <option title="" value="4" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 400 }">400%</option>
+                    </select>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div id="loadingBar" class="hidden" style="width: calc(100% - 17px);">
+              <div class="progress indeterminate" style="height: 100%; width: 100%;">
+                <div class="glimmer">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <menu type="context" id="viewerContextMenu">
+          <menuitem id="contextFirstPage" label="First Page" data-l10n-id="first_page" title="Go to First Page"></menuitem>
+          <menuitem id="contextLastPage" label="Last Page" data-l10n-id="last_page" title="Go to Last Page"></menuitem>
+          <menuitem id="contextPageRotateCw" label="Rotate Clockwise" data-l10n-id="page_rotate_cw" title="Rotate Clockwise"></menuitem>
+          <menuitem id="contextPageRotateCcw" label="Rotate Counter-Clockwise" data-l10n-id="page_rotate_ccw" title="Rotate Counterclockwise"></menuitem>
+        </menu>
+
+        <div id="viewerContainer" tabindex="0">
+          <div id="viewer" class="pdfViewer"><div id="pageContainer1" class="page" data-page-number="1" style="width: 262px; height: 336px;" data-loaded="true"><div class="canvasWrapper" style="width: 262px; height: 336px;"><canvas id="page1" width="262" height="336" style="width: 262px; height: 336px;"></canvas></div><div class="textLayer" style="width: 262px; height: 336px;"><div data-canvas-width="203.84291266025625" style="left: 24.5298px; top: 0.442548px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.1262);">UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05764909 Date: 07/31/2015 </div><div data-canvas-width="39.311970519230755" style="left: 195.691px; top: 16.4164px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.01814);">RELEASE IN PART </div><div data-canvas-width="6.535187532051281" style="left: 195.682px; top: 21.3687px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.0892);">B6 </div><div data-canvas-width="12.750174249999997" style="left: 14.4608px; top: 37.7641px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.06251);">From: </div><div data-canvas-width="66.27342057692307" style="left: 79.233px; top: 37.7641px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.05196);">Mills, Cheryl D &lt;MillsCD@state.gov</div><div data-canvas-width="3.565896458333333" style="left: 145.493px; top: 37.8695px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.18863);">&gt; </div><div data-canvas-width="11.13132579807692" style="left: 14.5324px; top: 43.5383px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.11313);">Sent: </div><div data-canvas-width="67.42961241025638" style="left: 79.0602px; top: 43.6226px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.11109);">Saturday, August 29, 2009 8:29 PM </div><div data-canvas-width="7.4312786875" style="left: 14.5029px; top: 49.3968px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.13743);">To: </div><div data-canvas-width="16.787886807692303" style="left: 14.5324px; top: 55.2553px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.11919);">Subject: </div><div data-canvas-width="36.2915044503205" style="left: 79.1992px; top: 55.2553px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.0369);">Fw: Call from Arias </div><div data-canvas-width="6.3121331858974346" style="left: 14.6504px; top: 72.7675px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(0.901733);">Fyi </div><div data-canvas-width="33.52355926442308" style="left: 22.6964px; top: 84.2949px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.08141);">Original Message </div><div data-canvas-width="37.83188617788461" style="left: 14.5662px; top: 90.0691px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.03119);">From: Kelly, Craig A </div><div data-canvas-width="215.59009257692284" style="left: 14.6083px; top: 95.7168px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.05526);">To: Mills, Cheryl D; Abedin, Huma; Sullivan, Jacob J; Macmanus, Joseph E; Smith, Daniel B; Cue, Lourdes C; Aguilar, </div><div data-canvas-width="19.59707747435898" style="left: 14.5577px; top: 101.386px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.03143);">Patricia E. </div><div data-canvas-width="60.06514625961536" style="left: 14.6378px; top: 107.265px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.11232);">Sent: Sat Aug 29 16:55:09 2009 </div><div data-canvas-width="52.82358540384617" style="left: 14.6378px; top: 112.913px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.05647);">Subject: Fw: Call from Arias </div><div data-canvas-width="33.54520365865383" style="left: 22.8861px; top: 135.673px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.0821);">Original Message </div><div data-canvas-width="39.16304676923077" style="left: 14.6504px; top: 141.341px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.08786);">From: Llorens, Hugo </div><div data-canvas-width="46.91911233333334" style="left: 14.6083px; top: 147.116px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.05357);">To: Shannon, Thomas A; </div><div data-canvas-width="138.1466371538462" style="left: 14.6757px; top: 152.869px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.06841);">Henshaw, Simon; Amselem, W Lewis; Task Force Honduras; Otero, Maria </div><div data-canvas-width="60.28018416346157" style="left: 14.5324px; top: 158.538px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.1163);">Sent: Sat Aug 29 14:21:24 2009 </div><div data-canvas-width="45.02423948076923" style="left: 14.6378px; top: 164.101px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.07201);">Subject: Call from Arias </div><div data-canvas-width="7.584479032451923" style="left: 235.6px; top: 128.971px; font-size: 4.84696px; font-family: sans-serif; transform: scaleX(1.0835);">B6 </div><div data-canvas-width="74.8810860416667" style="left: 161.429px; top: 147.305px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.11259);">Kelly, Craig A; Webster, Christopher W; </div><div data-canvas-width="226.47996751602554" style="left: 14.6968px; top: 175.439px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.14384);">I just received a call from Arias. He expressed his appreciation for everything the US had done in support of democracy </div><div data-canvas-width="220.86612208974358" style="left: 14.5957px; top: 181.108px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.09381);">in Honduras. He said the recent tough messages by Insulza, OAS Ambassadors and USG officials. strengthened by US </div><div data-canvas-width="228.1446378173077" style="left: 14.6504px; top: 186.861px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.13505);">sanctions, was having an impact on the M regime. He praised our decision to close the consulate and urged that we also </div><div data-canvas-width="227.05477508974352" style="left: 14.6252px; top: 192.635px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.12963);">move to take away tourist and business visas from key regime members and supporters. I told him we were working on </div><div data-canvas-width="165.16097802884633" style="left: 14.5957px; top: 198.304px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.13124);">implementing the visa and other measures which I expected could be announced soon. </div><div data-canvas-width="213.43313980288445" style="left: 14.6631px; top: 209.726px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.12928);">Arias was critical of Z saying his recent public statements continued to be unhelpful. He described Z's statement </div><div data-canvas-width="223.27451087179483" style="left: 14.6589px; top: 215.5px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.145);">advocating the death penalty (presumably to apply to his political enemies) and asking for the extension of his term in </div><div data-canvas-width="222.60391777083353" style="left: 14.6252px; top: 221.253px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.11947);">office as "disastrous". He said that Insulza had made the right call by not allowing Z to address the OASGA. We agreed </div><div data-canvas-width="102.44415702884613" style="left: 14.6083px; top: 226.816px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.10155);">the influence of FM Rodas over Z was highly negative, </div><div data-canvas-width="227.26263697115397" style="left: 14.6968px; top: 238.259px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.13631);">I told Arias I would be back in Honduras tomorrow and planned in the coming days to press influential political, business </div><div data-canvas-width="226.51144996474378" style="left: 14.6589px; top: 243.907px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.13256);">and civil society and urge support for the immediate signing of the Si Accord. Arias and I agreed to stay in close touch in </div><div data-canvas-width="33.042159681089736" style="left: 14.7137px; top: 249.471px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.10141);">the coming days. </div><div data-canvas-width="25.73733552403846" style="left: 14.6757px; top: 261.103px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.11901);">Hugo Llorens </div><div data-canvas-width="24.73525115384615" style="left: 14.5577px; top: 266.772px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.07545);">Ambassador </div><div data-canvas-width="49.32050379807691" style="left: 14.7474px; top: 272.546px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.01622);">U.S. Embassy Tegucigalpa </div><div data-canvas-width="6.683720996794871" style="left: 125.907px; top: 327.169px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(0.954817);">329 </div><div data-canvas-width="203.84291266025625" style="left: 24.5298px; top: 331.616px; font-size: 4.21474px; font-family: sans-serif; transform: scaleX(1.1262);">UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05764909 Date: 07/31/2015 </div></div></div></div>
+        </div>
+
+        <div id="errorWrapper" hidden="true">
+          <div id="errorMessageLeft">
+            <span id="errorMessage"></span>
+            <button id="errorShowMore" data-l10n-id="error_more_info">More Information</button>
+            <button id="errorShowLess" data-l10n-id="error_less_info" hidden="true">Less Information</button>
+          </div>
+          <div id="errorMessageRight">
+            <button id="errorClose" data-l10n-id="error_close">Close</button>
+          </div>
+          <div class="clearBoth"></div>
+          <textarea id="errorMoreInfo" hidden="true" readonly="readonly"></textarea>
+        </div>
+      </div> <!-- mainContainer -->
+
+      <div id="overlayContainer" class="hidden">
+        <div id="passwordOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <p id="passwordText" data-l10n-id="password_label">Enter the password to open this PDF file.</p>
+            </div>
+            <div class="row">
+              <input type="password" id="password" class="toolbarField">
+            </div>
+            <div class="buttonRow">
+              <button id="passwordCancel" class="overlayButton"><span data-l10n-id="password_cancel">Cancel</span></button>
+              <button id="passwordSubmit" class="overlayButton"><span data-l10n-id="password_ok">OK</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="documentPropertiesOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="document_properties_file_name">File name:</span> <p id="fileNameField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_file_size">File size:</span> <p id="fileSizeField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_title">Title:</span> <p id="titleField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_author">Author:</span> <p id="authorField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_subject">Subject:</span> <p id="subjectField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_keywords">Keywords:</span> <p id="keywordsField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creation_date">Creation Date:</span> <p id="creationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_modification_date">Modification Date:</span> <p id="modificationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creator">Creator:</span> <p id="creatorField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_producer">PDF Producer:</span> <p id="producerField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_version">PDF Version:</span> <p id="versionField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_page_count">Page Count:</span> <p id="pageCountField">-</p>
+            </div>
+            <div class="buttonRow">
+              <button id="documentPropertiesClose" class="overlayButton"><span data-l10n-id="document_properties_close">Close</span></button>
+            </div>
+          </div>
+        </div>
+      </div>  <!-- overlayContainer -->
+
+    </div> <!-- outerContainer -->
+    <div id="printContainer"></div>
+<div id="mozPrintCallback-shim" hidden="">
+  <style>
+@media print {
+  #printContainer div {
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+}
+  </style>
+  <style scoped="">
+#mozPrintCallback-shim {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 9999999;
+
+  display: block;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#mozPrintCallback-shim[hidden] {
+  display: none;
+}
+@media print {
+  #mozPrintCallback-shim {
+    display: none;
+  }
+}
+
+#mozPrintCallback-shim .mozPrintCallback-dialog-box {
+  display: inline-block;
+  margin: -50px auto 0;
+  position: relative;
+  top: 45%;
+  left: 0;
+  min-width: 220px;
+  max-width: 400px;
+
+  padding: 9px;
+
+  border: 1px solid hsla(0, 0%, 0%, .5);
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+
+  background-color: #474747;
+
+  color: hsl(0, 0%, 85%);
+  font-size: 16px;
+  line-height: 20px;
+}
+#mozPrintCallback-shim .progress-row {
+  clear: both;
+  padding: 1em 0;
+}
+#mozPrintCallback-shim progress {
+  width: 100%;
+}
+#mozPrintCallback-shim .relative-progress {
+  clear: both;
+  float: right;
+}
+#mozPrintCallback-shim .progress-actions {
+  clear: both;
+}
+  </style>
+  <div class="mozPrintCallback-dialog-box">
+    <!-- TODO: Localise the following strings -->
+    Preparing document for printing...
+    <div class="progress-row">
+      <progress value="0" max="100"></progress>
+      <span class="relative-progress">0%</span>
+    </div>
+    <div class="progress-actions">
+      <input type="button" value="Cancel" class="mozPrintCallback-cancel">
+    </div>
+  </div>
+</div>
+
+  
+
+
+<input id="fileInput" class="fileInput" type="file"></body></html>
