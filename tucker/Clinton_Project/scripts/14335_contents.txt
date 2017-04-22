@@ -1,0 +1,44 @@
+[<div class="tab-content">
+<div class="tab-pane fade in active" id="content">
+<h2>BAN</h2>
+<header id="header">
+					From: <span title="Original: Abedin, Huma">Huma Abedin</span>
+					To: <span title="Original: Hillary Clinton">Hillary Clinton</span>
+					Date: 2009-08-28 13:29
+					Subject: BAN
+				</header>
+<div class="email-content" id="uniquer">
+<span class="unclassified">UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05764908 Date: 07/31/2015</span>
+<span class="unclassified">RELEASE IN FULL</span>
+<span class="inlinemeta">From: 	                            Abedin, Huma &lt;AbedinH@state.gov&gt;
+Sent:	                             Saturday, August 29, 2009 8:29 PM
+To:
+</span>
+<span class="inlinemeta">Subject:	                          Ban
+</span>
+
+The best option for ban for the food security meeting is saturday afternoon at 4pm. Cheryl wants to confirm. U ok if I
+move forward?
+				</div>
+</div>
+<div class="tab-pane fade in" id="source">
+<iframe src="./14335_files/viewer.html" style="width:100%; height:600px"></iframe>
+<p><a download="" href="https://www.wikileaks.org/clinton-emails/Clinton_Email_July_Release/C05764908.pdf">Download Clinton_Email_July_Release/C05764908.pdf</a></p>
+</div>
+<div class="tab-pane fade in" id="share">
+<form>
+<div class="form-group">
+<label for="permalink">Permalink</label>
+<input class="form-control" id="permalink" name="permalink" type="text" value="https://www.wikileaks.org/clinton-emails/emailid/14335">
+</input></div>
+<div class="form-group">
+<label for="pdflink">Direct link to PDF</label>
+<input class="form-control" id="pdflink" name="pdflink" type="text" value="https://www.wikileaks.org/clinton-emails/Clinton_Email_July_Release/C05764908.pdf">
+</input></div>
+<div class="form-group">
+<label for="embed">Embed code</label>
+<input class="form-control" id="embed" name="embed" type="text" value='&lt;iframe src="https://www.wikileaks.org/clinton-emails/emailid/14335?embed=1"&gt;&lt;/iframe&gt;'>
+</input></div>
+</form>
+</div>
+</div>]
