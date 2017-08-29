@@ -28,6 +28,7 @@ Winter 2017 fellows:
 Fall 2017 fellows:
 * Laurel Myers 
 * Chandler Wickers
+
 * *Florence As It Was* research assistants: 
 	* Aidan Valente
 	* Colby Gilley
