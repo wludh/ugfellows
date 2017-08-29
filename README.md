@@ -12,13 +12,12 @@ Depending on their skills and interests, students will be expected to perform so
 * Develop personal DH research projects or contribute to library DH projects. 
 * Collaborate/mentor with other fellows or student groups on specific projects. 
 
-In fall 2016, we have three fellows:
-
+Fall 2016 fellows:
 * [Abdur Khan](/khan/) - working on a Jekyll plugin for converting TEI to markdown. Also learning Ruby and Ruby on Rails to work with the [Huon d'Auvergne](huondauvergene.org) project.
 * [Aidan Valente](/valente/) - working on a Jekyll plugin for converting TEI to markdown digital archiving.
 * [Haley Soutter](/soutter/) - working on strategic communciations in the University Library.
 
-In winter 2017, we've added the following fellows:
+Winter 2017 fellows:
 * Arlette Hernandez - returning from Winter 2016 after studying abroad in England.
 * Will Tucker - politics major interested in text analysis of email archives. 
 * Cat Spencer - research assistant on Prof. Stephanie Sandberg's *Understanding Human Trafficking* project.
@@ -26,3 +25,15 @@ In winter 2017, we've added the following fellows:
 * Miles Bent - research assistant on Prof. George Bent's *Florence As It Was* project. 
 * Sam Joseph - research assistant on Prof. George Bent's *Florence As It Was* project. 
 
+Fall 2017 fellows:
+* Laurel Myers 
+* Chandler Wickers
+* *Florence As It Was* research assistants: 
+	* Aidan Valente
+	* Colby Gilley
+	* MC Greenleaf
+	* Katherine Dau
+* *Understanding Human Trafficking* research assistants:
+	* Cat Spencer
+* *Mapping the Scottish Reformation* research assistants:
+	* Caroline Nowlin
