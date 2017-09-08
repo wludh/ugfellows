@@ -2,7 +2,8 @@
 
 
 ## Office hours
-Office hours will be held on Thursdays from 10am-12pm.
+* Alternating Mondays 1-3pm
+* alternating Thursdays 10-12pm.
 
 ## Workshop schedule
 * January 17 & 19: Command line 
