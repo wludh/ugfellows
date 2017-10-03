@@ -1,1 +1,28 @@
-Put project plan here
+Project description
+  • Give a brief description of your project.
+		○ My project aims to continue development on a website I created working for Washington and Lee's Special Collection Department this past summer. The website is the final product of an effort to highlight unique collections and better expose materials to faculty and students. Shaped on the digital platform "Omeka," exhibited materials are organized by faculty departments, presenting information that can aid curricula and research. One page of this website displays data from a needs-assessment survey and research on how Special Collections can better serve the campus and improve as a departmental body. I hope to gain the technical skills to creatively visualize and present this data, as well as design the website to most effectively appeal to viewers and publish the materials in an aesthetically pleasing way. This interdisciplinary site will also include a digitization prioritization list, a list of resources that can enhance Special Collections’ holdings, and a monthly exposition of Top 10 things to find in the vault. In creating a website that houses digital objects, I want to learning basic coding, website design, copyright parameters and metadata standards. 
+  • What would your "elevator pitch" be (how would you explain your project succinctly to someone you met in the elevator going from the first floor to the fifth)?
+		○ As Washington and Lee University reaches its 269th year, one can only imagine the breadth of materials both linked to the University and its associates that the school has maintained through some of the most uprooting and transforming periods of American history - the  Civil War, reconstruction, two world wars, coeducation, the rise of technology … all as W&L built one of the most esteemed liberal arts programs in the country. I want to make these materials - artifacts of our history and those individuals whose lives are forever linked to W&L and its legacy, public for research, analysis, and further educational objectives of the University. 
+
+    
+Project goals
+	• What do want to accomplish with this project?
+		○ I want to make this website public with as much material as I can so faculty, students, and every day researchers can see the information, understand my goal for the site and develop an interest in the material that will then bring them into Special Collections. This will create the potential for interdisciplinary collaborations between students, faculty and Special Collections staff on a project, as well as the possibility to inform the development of a class, aid a student with thesis research, and bring more interested parties to Washington and Lee. I want this project to keep developing after I've graduated, so students can continually add on to the site in accordance with their own interests and that of their professors. 
+  • What does the final product look like?
+		○ A website that creatively exhibits aggregated data from the most significant collections in Special Collections' holdings, explaining how this information can be used by faculty and for student projects, as well as presenting survey analysis that informs the future development and improvement of Special Collections in terms faculty outreach and collaboration.
+	• What skills do you want to develop? What technology/methodology do you want to use?
+		○ I’d like to learn more about website design and basic coding to develop the theme of the site and the exhibits themselves within the site. I'd also like to learn quick and effective ways to link material from the Special Collections repository to my site.
+Progress
+	• What have you done so far?
+		○ I have built the basic dropdown menu on the site, have uploaded some collection materials and items, provided metadata and have developed a page for the survey results and analysis.
+	• What do you need to do?
+		○ Add the bulk of my items and write ups on the collections I'm showcasing as well as the associated metadata. I need to then tweak the theme of the site so that it works and looks better with the information I'm uploading and writing about.
+	• Can you order/rank your next steps?
+		○ Add data, including creative written material, metadata, links to SC website, and images
+		○ Curate at least 3 full collections under English / Journalism
+		○ Decide on a website theme that works best with the layout and material
+		○ Create a page for "Top Ten Things in the Vault"
+		○ Develop the "Student Project Proposal" page
+		○ Create "Digitization Priority List" page
+		○ Outline steps for ~what's next~
+		
