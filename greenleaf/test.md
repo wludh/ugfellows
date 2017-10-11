@@ -6,4 +6,7 @@ Add some Markdown here!
 * Wagging tails
 * Perfect ears
 
-They're pretty ~good~ friends
+They're pretty ~good~ great friends
+
+> Dogs are definitely the best animals to keep as pets
+> they are gentle and only want to love you 
