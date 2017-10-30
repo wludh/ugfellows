@@ -18,4 +18,10 @@
 Mackenzie + Sydney away at conference 
 
 # Week of 10/30
-* finalize poster for Sarah Bond/Tom Keegan 
+* Post Sarah Bond event on DH Blog (see email with poster)
+* Review DH websites for website update day
+* Brainstorm idea for a DH project report series
+* UNRH poster
+
+# Week of 11/6
+* work on DH website at Monday meeting
