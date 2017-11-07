@@ -25,3 +25,6 @@ Mackenzie + Sydney away at conference
 
 # Week of 11/6
 * work on DH website at Monday meeting
+* Brainstorm DH project series with Huon d'Auvergne digital edition in mind
+* Wireframe DH website for ugfellows/student audience
+* Hangup UNRH posters + Sarah Bond posters
