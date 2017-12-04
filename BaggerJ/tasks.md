@@ -28,3 +28,8 @@ Mackenzie + Sydney away at conference
 * Brainstorm DH project series with Huon d'Auvergne digital edition in mind
 * Wireframe DH website for ugfellows/student audience
 * Hangup UNRH posters + Sarah Bond posters
+
+# Week of 12/4
+* poster + blog post for Winter Academy 
+* pizza party on Wednesday
+* continue student website work
