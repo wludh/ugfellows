@@ -1,0 +1,88 @@
+Project- CPDS 
+	*found data/key--both very well researched and academic
+	*data is very multi-faceted, can be manipulated to show many different things
+		-Compare countries' development through different forms of government
+		-Can be processed in many ways
+	1) Plan: 
+		>since it is an excel sheet, I can save as CSV or plain text and use regex to change the variables (conserv1, etc.) to the proper full name for that country (USA-->conserv1-->GOP)
+			**alternatively, I can go by hand through excel or use find/replace
+		>Use various tools (MALLET, Voyant, etc.) to creat multiple visualizations of the data
+		>Make sure to keep project as interactive as possible; showing one or two static things leaves out 99% of data
+	2) Progression:
+		>10/23/17: found data. project begins
+		>10/24/17: download tableau, clean \desktop\ugfellows\tucker, upload documents to Box
+		>10/25/17: download supplemental data; attempt tableau; data too large.
+			*FOR LATER:
+				*identify using key which variables are most important
+					-does this mean i need to identify i.e. "conserv1" as "GOP" or equal?
+				*use lynda tableau tutorials
+					-find visualization ideas
+		>10/26/17: restructure box, download communism documents
+			-Begin properly labeling parties (social1, conserv1, etc.) found in Appendix 2
+				-Croatia: gov_left2 has values, but there is no second croation lefist party listed in appendix
+`			-Before I can do this, the Excel document has the first row (where social1 etc are) to scroll, instead of headers for each country
+				-moved each country to its separate sheet, moved all sheets to new file "cpds_main_segments.xlsx"
+		>11/10/17: box now synced
+			-begin parsing data sets from sheets into their own specific .csv file
+				-cpsd_main.xlsx == complete
+					-filenames <cpsd_main_ccc.csv> where <ccc> is the three digit country abbrevriation
+				-cpsd_sup.xlsx == incomplete
+					-file is formatted in such a way that makes it hard to convert over to .csv
+						*ex: merged and centered titles for two column data
+						*biggest problem is fixing rows, not columns, using openrefine
+		>11/11/2017: tableau--can handle data and give really good visualizations. 
+				*look into using unions in data to compare countries
+				*use open refine to delete columns with only 0 vaLues
+					*change "Gov Right1" etc. to proper name (MISTAKE-->Fixing 11/29)
+			-TO DO: continue parsing cpsd_sub/comm, but cpsd_main is still good
+		>11/12/2017: don't delete 0 columns in files, even if one country has 0, another may have different data--need all columns to compare effectively
+		>11/15/2017: #1 moving all general (not gov_right1, etc-->country specific) variables to excel sheet (end at ttl_lf)
+		>11/21/2017: finish work from 11/15--> skip statistical variables (merely factors of calculation)
+				*for next: create government key for each country (right1-->GOP, etc)
+				*unions don't work well with Tableau (more practice?)
+			Item #1 above named <cpds_main_variable_index.xlsx>
+		>11/27/2017: Plan moving forward:
+				-Government key for each country
+				-Identify key variables to be compared together (10 combos total)
+		>11/28/2017: IMPORTANT TO NOTE IN PROJECT (mistake i made earlier): - 1. gov_xxxx# = gov composition | gov_xxxx2=share of power | gov_xxxx3 =seat share in parliament
+							   - 2. xxxxx# = percentage votes won by specific "xxxx" (social/conserv/left/etc) party that year
+							   -    2a.  sxxxxx# = percentage of seats won by specific "xxxx" (social/conserv/left/etc) party that year	
+							-Item #1 done, saved to <1_cpds_main_gov_index.xlsx>
+							-TO DO: Finish Item #2 above
+								Ensure AUS-->CRO dont have "LIB" (etc) instead of "gov_right1" (etc)
+		>11/30/2017: Finish parliamentary family index --> <cpds_main_parl_index.xlsx>
+				DATA CLEAN!!!!!!!!!!!!!!!!
+		>12/1/2017: Ten Variable Combinations for Analysis
+			1) Column: YEAR
+			   Row(s): Realgdpgr | Socexp_t_pmp
+				Result: Can see effects of recession/booms on social expenditure | can see disparities in social spending between countries (conservative vs progrossive)
+			2) Column: YEAR
+			   Row(s): s<parl_family_#> | gov_xxxx3
+				Result: if parl_family_# is within xxxx (e.g. sconserv1 + gov_right3) shows how much of that ideological faction (Left/Cent/Right) is a given party (e.g. Denmark-->conserv1 party has 21.6% of the Right's 55.2%)
+			3) Column: YEAR
+			   Row(s): emp_civ + ttf_labf | emp_ag | emp_ind | emp_serv 
+				Result: Shows breakdown of employment by sector as total of whole (can see trends in employment)
+			4) Column: YEAR
+			   Row(s): Debt | openc | realgdpgr
+				Result: Reveals effects of openness on economy; is to be protective or open more conducive to GDP growth and/or a decrease in debt?
+			5) Column: YEAR
+			   Row(s): emp_civ | wi
+				Result: Shows the extent to which the country has happy workers, and if laws have stabilized the labor force
+			6) Column: YEAR
+			   Row(s): womenpar | parl_family_names
+				Result: shows female support in parliament/correlations
+			7) Column: Year <Measure Names>
+			   Row(s): <Measure Values>
+			   Measures: ALL PARTY NAMES (Conserv1-->Protest9)
+				Result: Shows power balance over time for all parties in government
+			8) Column: 
+			   Row(s):
+				Result:
+			9) Column: 
+			   Row(s):
+				Result:
+			10)Column: 
+			   Row(s):
+				Result:
+		>1/8/2018: Excel's Filter function can do a lot of the search work within variables indeces--recommend using it to compare across all countries at once for one or more parties
+							
